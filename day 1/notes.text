@@ -1,0 +1,7 @@
+Events in Dom
+**************
+
+-events are nothing but a actions performed on the html elements.
+-
+take array of objects where each object contains emp id, emp name, emp company, emp salary, emp addres where emp addres forter contains an object which oncludes to properties such as emp city, area.
+display all these employee data on the ui through java script. in a form of table 
